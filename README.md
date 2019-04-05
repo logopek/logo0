@@ -1,2 +1,3 @@
 # logo0
-my first project
+Я пидр
+Я пидр
